@@ -21,11 +21,14 @@ Each model has its own dedicated folder containing multiple notebooks:
 - [x] **Linear Models**
   - Linear Regression  
   - Logistic Regression  
-- [ ] **Decision Trees**  
+- [ ] **Decision Trees**
+- [ ] **K-Nearest Neighbors**
+- [ ] **Support Vector Machines (SVM)**
+- [ ] **Clustering** 
 - [ ] **Ensemble Methods** (Random Forests, Gradient Boosting, XGBoost)  
-- [ ] **Support Vector Machines (SVM)**  
-- [ ] **Neural Networks (intro)**  
-- [ ] **Unsupervised Learning** (Clustering, PCA, etc.)  
+- [ ] **Dimensionality Reduction**  
+- [ ] **Anomaly Detection**
+- [ ] **Time Series**
 
 _More models will be added progressively._  
 
